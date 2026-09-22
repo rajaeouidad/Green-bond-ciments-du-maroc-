@@ -72,5 +72,5 @@ Chaque hypothèse non directement observable dans les publications de l'entrepri
 
 ##  À propos
 
-Projet personnel réalisé dans le cadre de ma formation en 5ème année Finance (ENCG), pour approfondir les compétences en analyse financière, corporate finance, marché des capitaux et finance durable 
+Projet personnel réalisé dans le cadre de ma formation en 4ème année Finance (ENCG), pour approfondir les compétences en analyse financière, corporate finance, marché des capitaux et finance durable 
 
