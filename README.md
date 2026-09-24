@@ -3,13 +3,13 @@
 
 **Financement d'un programme photovoltaïque (17 MW) par emprunt obligataire vert**
 
-Étude financière complète combinant analyse d'entreprise, corporate finance, structuration obligataire, simulation probabiliste (Python) et visualisation interactive (Power BI), appliquée à un cas réel : le programme solaire Tafukt & Chems de Ciments du Maroc.
+Étude financière complète combinant analyse d'entreprise, corporate finance, structuration obligataire, simulation probabiliste (Python) et visualisation interactive (Power BI), appliquée à un cas réel: le programme solaire Tafukt & Chems de Ciments du Maroc.
 
 ---
 
 ## Précision méthodologique
 
-Ciments du Maroc n'a pas émis de green bond pour financer ce programme photovoltaïque — l'entreprise l'a autofinancé. L'entreprise et le projet industriel étudiés ici sont **réels et sourcés** ; l'émission obligataire analysée est une **hypothèse de travail** construite pour évaluer si un financement par green bond aurait constitué une alternative pertinente.
+Ciments du Maroc n'a pas émis de green bond pour financer ce programme photovoltaïque l'entreprise l'a autofinancé. L'entreprise et le projet industriel étudiés ici sont **réels et sourcés**; l'émission obligataire analysée est une **hypothèse de travail** construite pour évaluer si un financement par green bond aurait constitué une alternative pertinente.
 
 ---
 
@@ -62,7 +62,7 @@ green-bond-ciments-maroc/
 6. **Structuration obligataire avancée** : pricing théorique et duration de l'obligation (Python)
 7. **Restitution** : tableau de bord interactif avec curseur de simulation en temps réel (Power BI)
 
-Chaque hypothèse non directement observable dans les publications de l'entreprise a été construite à partir de comparables de marché documentés, avec traçabilité systématique des sources — le détail complet de cette méthodologie est disponible dans le rapport.
+Chaque hypothèse non directement observable dans les publications de l'entreprise a été construite à partir de comparables de marché documentés, avec traçabilité systématique des sources  le détail complet de cette méthodologie est disponible dans le rapport.
 
 ---
 
