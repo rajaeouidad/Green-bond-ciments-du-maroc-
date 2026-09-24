@@ -24,6 +24,8 @@ Ciments du Maroc n'a pas émis de green bond pour financer ce programme photovol
 | CO₂ évité | ≈ 21 848 tonnes/an |
 | Duration du Green Bond | 6,00 |
 | Ratio Dette nette / EBITDA après émission | 0,126x |
+| DSCR années 1-6 / année 7 (structure in fine)	4,47x / 0,17x |
+
 
 **Recommandation : GO**, sous conditions de confirmation des hypothèses de production solaire et de prix de l'électricité (variables identifiées comme les plus déterminantes par l'analyse de sensibilité).
 
@@ -52,13 +54,13 @@ green-bond-ciments-maroc/
 
 ##  Méthodologie
 
-1. **Analyse financière** — collecte et interprétation des données réelles de l'entreprise (rapports annuels 2022-2024), calcul des ratios de solvabilité
-2. **Modélisation du projet** — hypothèses techniques documentées (production, coûts) à partir de comparables marocains réels
-3. **Structuration obligataire** — construction du coupon et de la maturité par analogie avec une émission corporate marocaine comparable (OCP SA, déc. 2024)
-4. **Valorisation** — calcul de la VAN et du TRI sur la durée de vie du projet (20 ans)
-5. **Analyse de robustesse** — 3 scénarios (Excel) puis simulation Monte Carlo à 10 000 tirages avec corrélation entre variables (Python)
-6. **Structuration obligataire avancée** — pricing théorique et duration de l'obligation (Python)
-7. **Restitution** — tableau de bord interactif avec curseur de simulation en temps réel (Power BI)
+1. **Analyse financière**  collecte et interprétation des données réelles de l'entreprise (rapports annuels 2022-2024), calcul des ratios de solvabilité
+2. **Modélisation du projet**  hypothèses techniques documentées (production, coûts) à partir de comparables marocains réels
+3. **Structuration obligataire**  construction du coupon et de la maturité par analogie avec une émission corporate marocaine comparable (OCP SA, déc. 2024)
+4. **Valorisation** : calcul de la VAN et du TRI sur la durée de vie du projet (20 ans)
+5. **Analyse de robustesse** : 3 scénarios (Excel) puis simulation Monte Carlo à 10 000 tirages avec corrélation entre variables (Python)
+6. **Structuration obligataire avancée** : pricing théorique et duration de l'obligation (Python)
+7. **Restitution** : tableau de bord interactif avec curseur de simulation en temps réel (Power BI)
 
 Chaque hypothèse non directement observable dans les publications de l'entreprise a été construite à partir de comparables de marché documentés, avec traçabilité systématique des sources — le détail complet de cette méthodologie est disponible dans le rapport.
 
@@ -66,7 +68,7 @@ Chaque hypothèse non directement observable dans les publications de l'entrepri
 
 ##  Outils utilisés
 
-`Excel` (modélisation financière) · `Python` (NumPy, Matplotlib — simulation Monte Carlo, pricing obligataire) · `Power BI` (DAX, dashboard interactif) · `Word` (rapport d'analyse)
+`Excel` (modélisation financière) · `Python` (NumPy, Matplotlib simulation Monte Carlo, pricing obligataire) · `Power BI` (DAX, dashboard interactif) · `Word` (rapport d'analyse)
 
 ---
 
